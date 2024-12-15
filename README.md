@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya-singh-21&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya-singh-21" /> </p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-singh-5709b285) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aadityas2110) 
 
